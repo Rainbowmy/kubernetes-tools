@@ -11,3 +11,4 @@
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator)：配置、操作和管理kubernetes上的Prometheus和Alertmanager集群
 - [kube-prometheus ](https://github.com/coreos/kube-prometheus)：简便的end-to-end的方式通过Prometheus operator操作kubernetes上的Prometheus；同时含有Grafana和Prometheus rules
 - [ECK](https://github.com/elastic/cloud-on-k8s/)kubernetes上的elastic cloud，采用operator的方式部署es和kibana
+- [dex](https://github.com/dexidp/dex/tree/master)OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable Connectors，使用OpenID驱动其他应用的认证服务
